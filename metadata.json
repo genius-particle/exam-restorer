@@ -1,0 +1,7 @@
+{
+  "name": "ExamRestorer AI",
+  "description": "Professional exam paper restoration tool that removes handwriting, enhances contrast, and prepares documents for clean printing using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
